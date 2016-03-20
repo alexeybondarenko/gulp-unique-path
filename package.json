@@ -1,0 +1,16 @@
+{
+  "name": "gulp-unique-path",
+  "version": "1.0.0",
+  "description": "Gulp plugin, that remove duplicate files by relative path. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "unique"
+  ],
+  "author": "Alexey Bondarenko",
+  "license": "ISC"
+}
